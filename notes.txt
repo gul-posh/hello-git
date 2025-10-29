@@ -4,7 +4,7 @@ This is my first push–pull cycle.
 
 ---
 Summary:
-<<<<<<< HEAD
+
 Git helps developers work together smoothly.
 It tracks every change and version.
 
@@ -18,3 +18,9 @@ It allows collaboration without chaos.
 
 
 Rebasing keeps history linear and clean.
+
+---
+Summary:
+Git enables smooth collaboration and detailed change tracking.
+
+ 52f74a8 (Add Summary section to notes)
