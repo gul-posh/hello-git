@@ -2,3 +2,7 @@ These are my initial thoughts on Git.
 It feels powerful to track every small change.
 This is my first push–pull cycle.
 
+---
+Summary:
+Git is a powerful system for tracking and coordinating changes.
+It allows collaboration without chaos.
