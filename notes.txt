@@ -4,10 +4,15 @@ This is my first push–pull cycle.
 
 ---
 Summary:
+<<<<<<< HEAD
 Git helps developers work together smoothly.
 It tracks every change and version.
 
 ---
 Insights:
 Understanding Git’s flow improves confidence in collaboration.
+
+
+Git is a powerful system for tracking and coordinating changes.
+It allows collaboration without chaos.
 
