@@ -16,3 +16,5 @@ Understanding Git’s flow improves confidence in collaboration.
 Git is a powerful system for tracking and coordinating changes.
 It allows collaboration without chaos.
 
+
+Rebasing keeps history linear and clean.
